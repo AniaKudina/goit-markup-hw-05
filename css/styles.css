@@ -488,6 +488,7 @@ img {
 
 .footer-soc-icon {
   fill: #f4f4fd;
+}
   .footer-wrap {
   }
 
@@ -599,7 +600,7 @@ img {
   top: 24px;
   right: 24px;
   transition: background-color var(--timing-function),
-    border var(--timing-function);
+  border var(--timing-function);
   display: flex;
   justify-content: center;
   align-items: center;
